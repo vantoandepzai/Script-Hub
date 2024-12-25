@@ -1,0 +1,6 @@
+Config = {
+ namescript = "Vawn Toan Hub Beta",
+ logoscript = "73196036099898",
+ tacgia = "Lê Văn Toàn"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
